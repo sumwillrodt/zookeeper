@@ -129,6 +129,28 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Tom",
+      "species": "Car",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Tom",
+      "species": "Cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }
